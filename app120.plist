@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.e-techs.cn/iosdownloads/funnco.ipa</string>
+					<string>http://172.16.3.240/iostest/memedia120.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.e-techs.cn/iosdownloads/funnco120.png</string>
+					<string>http://172.16.3.240/iostest/icon120.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.e-techs.cn/iosdownloads/funnco64.png</string>
+					<string>http://172.16.3.240/iostest/icon64.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yuyue.funnco</string>
+				<string>com.onlyme.memedia</string>
 				<key>bundle-version</key>
-				<string>1.0.4</string>
+				<string>1.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>funnco</string>
+				<string>看看有钱</string>
 				<key>title</key>
-				<string>funnco</string>
+				<string>看看有钱</string>
 			</dict>
 		</dict>
 	</array>
