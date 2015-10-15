@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.onlyme.memedia207</string>
+				<string>com.onlyme.memedia</string>
 				<key>bundle-version</key>
 				<string>1.2.0</string>
 				<key>kind</key>
