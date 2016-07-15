@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://58.246.54.246:8080/iostest/memedia302.ipa</string>
+					<string>http://172.16.3.240/iostest/memedia302.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://58.246.54.246:8080/iostest/icon120.png</string>
+					<string>http://172.16.3.240/iostest/icon120.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://58.246.54.246:8080/iostest/icon64.png</string>
+					<string>http://172.16.3.240/iostest/icon64.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
